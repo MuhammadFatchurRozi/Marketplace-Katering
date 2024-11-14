@@ -1,12 +1,12 @@
 <p align="center"><a href="#" target="_blank"><img src="public/assets/customers/images/favicon.png" width="400" alt="Aurora Logo"></a></p>
 
-## Tentang Marketplace Katering 🏥
-
-Marketplace katering adalah platform online yang berfungsi sebagai penghubung antara penyedia jasa katering (vendor) dengan konsumen yang membutuhkan layanan katering. Sama seperti marketplace pada umumnya, platform ini memfasilitasi transaksi antara kedua belah pihak secara efisien.
+## Tentang Marketplace Katering
 
 Apa itu Marketplace Katering?
 
 Marketplace katering adalah platform online yang berfungsi sebagai penghubung antara penyedia jasa katering (vendor) dengan konsumen yang membutuhkan layanan katering. Sama seperti marketplace pada umumnya, platform ini memfasilitasi transaksi antara kedua belah pihak secara efisien.
+
+Dengan hanya beberapa klik, nikmati hidangan lezat dari berbagai restoran tanpa perlu repot keluar rumah. Pilih menu kesukaan Anda, tentukan waktu pengiriman, dan pembayaran dilakukan secara aman. Prosesnya begitu mudah sehingga Anda bisa pesan katering kapan saja dan di mana saja.
 
 <p align="center"><a href="#" target="_blank"><img src="public/storage/Screenshot (11).png" alt="Preview"></a></p>
 <p align="center"><a href="#" target="_blank"><img src="public/storage/Screenshot (12).png" alt="Preview"></a></p>
