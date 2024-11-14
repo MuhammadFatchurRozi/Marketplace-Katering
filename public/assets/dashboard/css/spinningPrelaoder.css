@@ -1,0 +1,40 @@
+.image-container {
+    position: relative;
+    width: 100%;
+    height: 350px; /* Adjust as needed */
+}
+
+.spinner {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 50px;
+    height: 50px;
+    border: 5px solid rgba(0, 0, 0, 0.1);
+    border-top: 5px solid #000;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+    display: none; /* Initially hidden */
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+img.lazyload {
+    opacity: 0;
+    filter: blur(10px); /* Initial blur */
+    transition: opacity 0.3s, filter 0.3s; /* Transition for opacity and blur */
+}
+
+img.lazyloaded {
+    opacity: 1;
+    filter: blur(0); /* Remove blur */
+}
